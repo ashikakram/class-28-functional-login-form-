@@ -1,0 +1,21 @@
+
+.form-body{
+    background: #6b6b6b;
+    color: #ffffff;
+    padding: 50px 20px;
+    border-radius: 15px;
+
+
+    
+}
+.form_btn{
+ border: transparent;
+}
+.btn_mesure{
+    width: 100%;
+    outline: none;
+}
+.btn_mesure::placeholder{
+    color:#000;
+    
+}
